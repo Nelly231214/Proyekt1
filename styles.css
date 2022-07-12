@@ -1,0 +1,19 @@
+img {
+    height: 50%;
+    width: 50%;
+}
+.n1{
+    border-style: solid;
+}
+table, th, td {
+    border: 1px solid;
+    background-color: red;
+    font-style: oblique;
+}
+span{
+    color:red;
+    font-style: italic;
+}
+.tdog{
+    display: flex;
+}
